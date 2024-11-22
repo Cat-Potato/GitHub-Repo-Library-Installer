@@ -16,4 +16,4 @@ Aplikacja Pythonowa do instalowania bibliotek z plików `libraries.txt` znajduj�
 - Biblioteka `requests`
 
 Informacje o Autorze
-Aplikacja została stworzona przez [Z1emniakPL](https://github.com/Z1emniakPL)
+Aplikacja została stworzona przez [Potato Cat](https://github.com/Cat-Potato)
